@@ -2,3 +2,4 @@
   name: "solr"
   version: "6.4.1"
   description: "Solr search platform"
+  uuid: solr-0
